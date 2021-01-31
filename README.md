@@ -6,10 +6,7 @@
 # Instructions
 ### Create a new venv
 ### pip install -r requirements.txt
-<<<<<<< HEAD
 ### download the YoloV3 weights and put it in the same dir as the .py files https://pjreddie.com/media/files/yolov3.weights
-=======
->>>>>>> d16582ebd984d859c4137e7802fdfdb31186cd6c
 ### pyton gui.py
 
 # GUI
