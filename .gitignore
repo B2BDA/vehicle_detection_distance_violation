@@ -1,2 +1,4 @@
 \*.weights
 *.weights
+yolov3.weights
+*.weights
