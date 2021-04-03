@@ -59,7 +59,7 @@ class videoGUI:
         self.pause = False
 
         self.filename = filedialog.askopenfilename(title="Select file", filetypes=(("MP4 files", "*.mp4"),
-                                                                                         ("WMV files", "*.wmv"), ("AVI files", "*.avi")))
+                                                                                         ("WMV files", "*.wmv"), ("AVI files", "*.avi"),("MKV files", "*.mkv")))
         print(self.filename)
 
         # Open the video file
